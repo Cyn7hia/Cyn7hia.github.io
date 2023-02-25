@@ -30,12 +30,12 @@ The multiple education backgrounds in different majors enable me to quickly adap
   </ul>
    <img align="left" width="360" height="200" src="/assets/img/Picture 1.png"/> <img align="right" width="200" height="200" src="/assets/img/Picture 2.png"/>
   
-  <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Picture 1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Picture 1.png" class="rounded" alt="" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Picture 2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Picture 2.png" class="rounded" alt="" %}
     </div>
 </div>
 
