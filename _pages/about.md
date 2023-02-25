@@ -28,5 +28,5 @@ The multiple education backgrounds in different majors enable me to quickly adap
     <li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.</li>
     <li>I developed a framework for extracting persona attributes from conversations.</li>
   </ul>
-   <img align="left" width="360" height="200" src="/assets/img/Picture 1.png"/> <img align="right" width="360" height="360" src="/assets/img/Picture 2.png"/>
+   <img align="left" width="360" height="200" src="/assets/img/Picture 1.png"/> <img align="right" width="200" height="200" src="/assets/img/Picture 2.png"/>
 
