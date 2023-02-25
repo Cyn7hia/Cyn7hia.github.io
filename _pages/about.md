@@ -22,11 +22,11 @@ The multiple education backgrounds in different majors enable me to quickly adap
 
 <a href='#'>I am in the job market now!<a> Please feel free to drop me an [email](mailto:luyao001@e.ntu.edu.sg) or a message to [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/璐瑶-朱-34418714a/) if you are interested. Thank you. :blush:
   
-### what I did in research during PhD study <img align="right" width="360" height="200" src="/assets/img/Picture 1.png"/>
+### what I did in research during PhD study
   <ul>
     <li>I proposed to detect the interlocutor intent for open-domain conversation and train the intent detector via semi-supervised learning.</li>
     <li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.</li>
     <li>I developed a framework for extracting persona attributes from conversations.</li>
   </ul>
-  <img align="right" width="360" height="360" src="/assets/img/Picture 2.png"/>
+   <img align="left" width="360" height="200" src="/assets/img/Picture 1.png"/> <img align="right" width="360" height="360" src="/assets/img/Picture 2.png"/>
 
