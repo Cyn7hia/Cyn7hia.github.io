@@ -29,14 +29,14 @@ The multiple education backgrounds in different majors enable me to quickly adap
     <li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.</li>
     <li>I developed a framework for extracting persona attributes from conversations.</li>
   </ul>
-   <img align="left" width="360" height="200" src="/assets/img/Picture 1.png"/> <img align="right" width="200" height="200" src="/assets/img/Picture 2.png"/>
+   <img align="left" width="450" height="250" src="/assets/img/Picture 1.png"/> <img align="right" width="250" height="250" src="/assets/img/Picture 2.png"/>
   
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Picture 1.png" class="rounded" %}
+        {% include figure.html path="assets/img/Picture 1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Picture 2.png" class="rounded" %}
+        {% include figure.html path="assets/img/Picture 2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
