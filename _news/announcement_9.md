@@ -5,4 +5,4 @@ date: 2023-05-02 20:00:00-0400
 inline: false
 ---
 
-Our work propose a contrastive learning- and generation-based model with a novel hard negative sampling strategy for generalized zero-shot persona attribute extraction.
+We propose a contrastive learning- and generation-based model with a novel hard negative sampling strategy for generalized zero-shot persona attribute extraction.
